@@ -26,7 +26,7 @@ Este proyecto es una práctica para implementar un flujo de trabajo básico util
 
 ## Captura de pantalla
 
-![Captura de pantalla del diseño](screenshot.png)
+![Captura de pantalla del diseño](https://repository-images.githubusercontent.com/245505091/002f5980-6181-11ea-8796-8095d30e0f51)
 
 ## Autor
 
